@@ -1,5 +1,5 @@
 # OpenTargets_drug_repositioning
-The scripts in this repository perform the following tasks necessary for drug repositioning using Open Targets:
+The scripts in this repository perform the following tasks necessary for the drug repositioning steps using Open Targets in the manuscript "Drug repositioning for psychiatric and neurological disorders through a network medicine approach":
 
 01 - search Open Targets for every gene associated to a list of diseases (here: PNDs - Psychiatric and Neurological Disorders);
 
@@ -15,3 +15,7 @@ a) affect genes that are coexpressed in the group of diseases (here: genes coexp
 
 b) affect only one gene among all searched genes;
       
+Authors:
+Thomaz Lüscher Dias, Helena Paula Brentani, Viviane Schuch, Patrícia Cristina Baleeiro Beltrão Braga, Daniel Martins-de-Souza, Glória Regina Franco, Helder Imoto Nakaya
+
+Manuscript submitted to Translational Psychiatry. In review.
