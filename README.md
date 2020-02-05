@@ -11,7 +11,7 @@ The scripts in this repository perform the following tasks necessary for drug re
 
 05 - filter results from 04 to keep only drugs that:
 
-a)affect genes that are coexpressed in the group of diseases (here: genes coexpressed in PNDs according to Gandal, 2018a);
+a) affect genes that are coexpressed in the group of diseases (here: genes coexpressed in PNDs according to Gandal, 2018a);
 
-b)affect only one gene among all searched genes;
+b) affect only one gene among all searched genes;
       
