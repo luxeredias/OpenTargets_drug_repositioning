@@ -34,7 +34,7 @@ save(exclusive_genes_coex,file = "data/05_exclusive_genes_coex.RData")
 exclusive_genes_coex_edges <- exclusive_genes_edges %>%
   filter(Source %in% exclusive_genes_coex)
 
-write.csv(exclusive_genes_coex_edges,file="data/Table_S1_OpenTargets_exclusive_coexpressed_genes.csv",row.names = F)
+write.csv(exclusive_genes_coex_edges,file="data/05_exclusive_genes_coex.csv",row.names = F)
 
 #get drugs that affect coexpressed exclusive genes
 drug_genes_edges <- exclusive_genes_drugs %>%
